@@ -63,7 +63,6 @@
     <h2>Contribution</h2>
     <p>Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. 
     Ensure your code adheres to the existing style and passes any tests.</p>
-
     <h2>License</h2>
     <p>This project is licensed under the <strong>GNU General Public License</strong>. See the 
     <a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL-3.0 License</a> for more details.</p>
