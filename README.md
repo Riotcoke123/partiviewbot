@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>PartiViewBot</h1>
+    <h1>Parti ViewBot</h1>
     <h2>Overview</h2>
-    <p><strong>PartiViewBot</strong> is a tool designed to fetch and analyze livestream viewer data from 
+    <p><strong>Parti ViewBot</strong> is a tool designed to fetch and analyze livestream viewer data from 
     <a href="https://parti.com">Parti.com</a> to identify potential view botting activities. 
     This project is currently in <strong>Beta Testing (v0.1A)</strong> and serves as a proof of concept while the algorithms are still under development.</p>
     <h2>Features</h2>
