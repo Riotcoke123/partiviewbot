@@ -3,11 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PartiViewBot</title>
 </head>
 <body>
-    <h1>Parti ViewBot</h1>
+    <h1>PartiViewBot</h1>
     <h2>Overview</h2>
-    <p><strong>Parti ViewBot</strong> is a tool designed to fetch and analyze livestream viewer data from 
+    <p><strong>PartiViewBot</strong> is a tool designed to fetch and analyze livestream viewer data from 
     <a href="https://parti.com">Parti.com</a> to identify potential view botting activities. 
     This project is currently in <strong>Beta Testing (v0.1A)</strong> and serves as a proof of concept while the algorithms are still under development.</p>
     <h2>Features</h2>
@@ -62,8 +63,10 @@
     <h2>Contribution</h2>
     <p>Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. 
     Ensure your code adheres to the existing style and passes any tests.</p>
+
     <h2>License</h2>
-    <p>This project is licensed under the MIT License. See the <a href="https://github.com/Riotcoke123/partiviewbot/blob/main/LICENSE">LICENSE</a> file for details.</p>
+    <p>This project is licensed under the <strong>GNU General Public License</strong>. See the 
+    <a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL-3.0 License</a> for more details.</p>
     <h2>Disclaimer</h2>
     <p>This tool is for educational and research purposes only. Please use it responsibly and in compliance with 
     <a href="https://parti.com">Parti.com's</a> terms of service.</p>
