@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>PartiViewBot</h1>
-    ![images](https://github.com/user-attachments/assets/94b55f87-8c14-4ef9-9e97-8f83fedec63c)
+ <img src="https://github.com/user-attachments/assets/94b55f87-8c14-4ef9-9e97-8f83fedec63c" alt="PartiViewBot Image" />
     <h2>Overview</h2>
     <p><strong>PartiViewBot</strong> is a tool designed to fetch and analyze livestream viewer data from 
     <a href="https://parti.com">Parti.com</a> to identify potential view botting activities. 
