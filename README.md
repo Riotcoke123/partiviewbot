@@ -3,16 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PartiViewBot</title>
 </head>
 <body>
     <h1>PartiViewBot</h1>
-
     <h2>Overview</h2>
     <p><strong>PartiViewBot</strong> is a tool designed to fetch and analyze livestream viewer data from 
     <a href="https://parti.com">Parti.com</a> to identify potential view botting activities. 
     This project is currently in <strong>Beta Testing (v0.1A)</strong> and serves as a proof of concept while the algorithms are still under development.</p>
-
     <h2>Features</h2>
     <ul>
         <li>Fetch livestream channel data using Parti.com API.</li>
@@ -20,7 +17,6 @@
         <li>Save the analyzed data in a structured JSON file.</li>
         <li>Easy to use with minimal setup.</li>
     </ul>
-
     <h2>Installation</h2>
     <ol>
         <li>Clone the repository:
@@ -33,7 +29,6 @@
             <pre><code>pip install requests</code></pre>
         </li>
     </ol>
-
     <h2>Usage</h2>
     <ol>
         <li>Open the <code>main.py</code> file and set the <code>user_id</code> to the ID of the Parti.com user you want to analyze.</li>
@@ -42,7 +37,6 @@
         </li>
         <li>The script will fetch data from the Parti.com API, analyze the viewer counts, and save the results to a JSON file. By default, the output file is named <code>bot.json</code> and located on your desktop.</li>
     </ol>
-
     <h2>JSON Output</h2>
     <p>The JSON file contains the following fields:</p>
     <ul>
@@ -51,7 +45,6 @@
         <li><code>real_viewer_count</code>: Estimated number of real viewers.</li>
         <li><code>bot_viewer_count</code>: Estimated number of bot viewers.</li>
     </ul>
-
     <h3>Example Output</h3>
     <pre><code>{
     "id": "352497",
